@@ -1,11 +1,14 @@
+import React from "react";
+import Welcome from "./pages/Welcome"
 import './App.css';
+import "bootstrap"
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-
-      </header>
+    <div>
+     <main>
+<Welcome></Welcome>
+     </main>
     </div>
   );
 }

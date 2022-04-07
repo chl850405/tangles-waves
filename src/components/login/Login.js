@@ -37,7 +37,7 @@ return (
           <Grid align="center">
 <h2>Login Account</h2>
 </Grid>
- <img src={logo} className="photo" alt="Logo"/>
+  <img src={logo} className="photo" alt="Logo"/>
 <Box
       component="form"
       sx={{

@@ -4,6 +4,7 @@ import Calendar from "./components/calendar/Calendar";
 import Services from "./components/services/Services";
 import Login from "./components/login/Login";
 import Logout from "./components/logout/Logout";
+import NewAcct from "./components/newAcct/NewAcct";
 import "./App.css";
 import "bootstrap";
 
@@ -17,6 +18,7 @@ function App() {
           <Services></Services>
           <Login></Login>
           <Logout></Logout>
+          <NewAcct></NewAcct>
       
       </main>
     </div>

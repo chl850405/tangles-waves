@@ -11,7 +11,6 @@ import {
   IconButton,
 } from "@mui/material";
 import { Visibility, VisibilityOff } from "@mui/icons-material";
-import { textAlign } from "@mui/system";
 import logo from "../../assets/mermaid.jpg";
 import "./NewAcct.css";
 

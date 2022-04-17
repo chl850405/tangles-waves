@@ -6,6 +6,8 @@ import Login from "./components/login/Login";
 import Logout from "./components/logout/Logout";
 import NewAcct from "./components/newAcct/NewAcct";
 import Cancel from "./components/cancel/Cancel";
+import Success from "./components/success/Success";
+import Error from "./components/error/Error";
 import "./App.css";
 import "bootstrap";
 
@@ -21,6 +23,8 @@ function App() {
           <Logout></Logout>
           <NewAcct></NewAcct>
           <Cancel></Cancel>
+          <Success></Success>
+          <Error></Error>
       
       </main>
     </div>

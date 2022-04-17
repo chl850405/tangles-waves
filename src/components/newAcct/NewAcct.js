@@ -49,7 +49,7 @@ const NewAcct = () => {
       <Grid>
         <Paper elevation={10} style={paperStyle}>
           <Grid align="center">
-            <h2>NewAcct Account</h2>
+            <h2>New Account</h2>
           </Grid>
           <img src={logo} className="photo" alt="Logo" />
           <Box

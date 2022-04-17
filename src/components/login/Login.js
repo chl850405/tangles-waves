@@ -1,8 +1,7 @@
 import React from "react";
 import { Paper, Grid, Box, TextField, OutlinedInput,InputLabel ,FormControl, InputAdornment,IconButton} from "@mui/material";
 import {Visibility, VisibilityOff } from '@mui/icons-material';
-import { textAlign } from "@mui/system";
-import logo from '../../assets/mermaid.jpg'; 
+import logo from '../../assets/images/mermaid.jpg'; 
 import "./Login.css"
 
 const Login = () => {

@@ -11,7 +11,7 @@ import {
   IconButton,
 } from "@mui/material";
 import { Visibility, VisibilityOff } from "@mui/icons-material";
-import logo from "../../assets/mermaid.jpg";
+import logo from "../../assets/images/mermaid.jpg";
 import "./NewAcct.css";
 
 const NewAcct = () => {
